@@ -14,7 +14,7 @@ import Start from './pages/start/start'
 
 function App() {
   return <>
-    <BrowserRouter>
+    <BrowserRouter basename="/VetCare">
       <Header/>
       <Routes>
         <Route index path='/' element={<Home/>}/>

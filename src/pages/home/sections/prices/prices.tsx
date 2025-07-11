@@ -4,7 +4,7 @@ import style from './prices.module.css'
 
 export const Prices = () => {
 	return <section className={style.prices}>
-		<img src="/public/img/home/prices/element-1.svg"  className={style.icon} /><img src="/public/img/home/prices/element-2.svg"  className={style.icon} />
+		<img src="img/home/prices/element-1.svg"  className={style.icon} /><img src="img/home/prices/element-2.svg"  className={style.icon} />
 		<Container>
 			<ul className={style.prices__list}>
 					<li className={style.prices__list_item}>

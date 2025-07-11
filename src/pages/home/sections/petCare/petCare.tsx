@@ -12,7 +12,7 @@ export const PetCare = () => {
 					<Button isLink={true} href='/contact'>Contact Us Now</Button>
 				</div>
 				<div className={style.petCare__images}>
-						<img src="/public/img/home/petCare/dog.png" className={style.petCare__images_dog} />
+						<img src="img/home/petCare/dog.png" className={style.petCare__images_dog} />
 				</div>
 			</div>
 		</Container>

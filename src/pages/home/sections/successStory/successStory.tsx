@@ -6,7 +6,7 @@ export const SuccessStory = () => {
 	return <section className={style.successStory}>
 		<Container>
 			<div className={style.successStory__content}>
-				<img className={style.icon} src="/public/img/home/successStory/element-1.svg"/>
+				<img className={style.icon} src="img/home/successStory/element-1.svg"/>
 				<div className={style.successStory__content_text}>
 					<div className={style.successStory__title}>
 						<h3>Our Success Story</h3>
@@ -34,10 +34,10 @@ export const SuccessStory = () => {
 				</div>
 				<div
 				 className={style.successStory__images}>
-						<img src="/public/img/home/successStory/Object-14.png"/>
-						<img className={style.successStory__images_icon} src="/public/img/home/successStory/element-2.svg"/>
-						<img className={style.successStory__images_icon} src="/public/img/home/successStory/element-3.svg"/>
-						<img className={style.successStory__images_icon} src="/public/img/home/successStory/element-4.svg"/>
+						<img src="img/home/successStory/Object-14.png"/>
+						<img className={style.successStory__images_icon} src="img/home/successStory/element-2.svg"/>
+						<img className={style.successStory__images_icon} src="img/home/successStory/element-3.svg"/>
+						<img className={style.successStory__images_icon} src="img/home/successStory/element-4.svg"/>
 				 </div>
 			</div>
 		</Container>

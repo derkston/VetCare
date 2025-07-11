@@ -11,22 +11,22 @@ export const WhatWeDo = () => {
 						</div>
 						<ul className={style.whatWeDo__list}>
 								<li className={style.whatWeDo__list_item}>
-									<img src="/public/img/home/whatWeDo/Union.svg"/>
+									<img src="img/home/whatWeDo/Union.svg"/>
 									<h4>Pet Grooming</h4>	
 									<p>There are many variatio of passage of Lorem for a Ipsum available</p>
 								</li>
 								<li className={style.whatWeDo__list_item}>
-									<img src="/public/img/home/whatWeDo/Union-1.svg"/>
+									<img src="img/home/whatWeDo/Union-1.svg"/>
 									<h4>Veterinary</h4>	
 									<p>There are many variatio of passage of Lorem for a Ipsum available</p>
 								</li>
 								<li className={style.whatWeDo__list_item}>
-									<img src="/public/img/home/whatWeDo/Union-2.svg"/>
+									<img src="img/home/whatWeDo/Union-2.svg"/>
 									<h4>Dog Setting</h4>	
 									<p>There are many variatio of passage of Lorem for a Ipsum available</p>
 								</li>
 								<li className={style.whatWeDo__list_item}>
-									<img src="/public/img/home/whatWeDo/Union-3.svg"/>
+									<img src="img/home/whatWeDo/Union-3.svg"/>
 									<h4>Healthy Meals</h4>	
 									<p>There are many variatio of passage of Lorem for a Ipsum available</p>
 								</li>

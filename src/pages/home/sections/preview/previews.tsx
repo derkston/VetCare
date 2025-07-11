@@ -4,7 +4,7 @@ import style from './previews.module.css'
 export const Preview = () => {
 	return <section className={style.preview}>
 		<img
-		 src="/public/img/home/element-1.svg" className={style.icon}
+		 src="img/home/element-1.svg" className={style.icon}
 		/>
 		<Container>
 			<div className={style.preview__content}>
@@ -31,14 +31,14 @@ export const Preview = () => {
 					</div>
 					<div className={style.preview__dog}>
 							<img
-							 src="/public/img/home/dog.png"
+							 src="img/home/dog.png"
 							 alt="dog"
 							/>
-							<img src="/public/img/home/element-3.svg" 
+							<img src="img/home/element-3.svg" 
 							className={style.icon_dog} />
-							<img src="/public/img/home/element-9.svg" 
+							<img src="img/home/element-9.svg" 
 							className={style.icon_dog} />
-							<img src="/public/img/home/element-6.svg" 
+							<img src="img/home/element-6.svg" 
 							className={style.icon_dog} />
 					</div>
 			</div>

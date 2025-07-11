@@ -13,28 +13,28 @@ export const Team = () => {
 						<li
 						 className={style.team__list_item}
 						 >
-							<img src="/public/img/home/team/happy-bearded.png" alt="Rosalina Wiliam" className="team__item_img" />
+							<img src="img/home/team/happy-bearded.png" alt="Rosalina Wiliam" className="team__item_img" />
 							<h4>Rosalina Wiliam</h4>
 							<h3>CEO & Founder</h3>
 						</li>
 						<li
 						 className={style.team__list_item}
 						 >
-							<img src="/public/img/home/team/Fashion-girl-4.png" alt="Rosalina Wiliam" className="team__item_img" />
+							<img src="img/home/team/Fashion-girl-4.png" alt="Rosalina Wiliam" className="team__item_img" />
 							<h4>Rosalina Wiliam</h4>
 							<h3>CEO & Founder</h3>
 						</li>
 						<li
 						 className={style.team__list_item}
 						 >
-							<img src="/public/img/home/team/photo-attractive.png" alt="Rosalina Wiliam" className="team__item_img" />
+							<img src="img/home/team/photo-attractive.png" alt="Rosalina Wiliam" className="team__item_img" />
 							<h4>Rosalina Wiliam</h4>
 							<h3>CEO & Founder</h3>
 						</li>
 						<li
 						 className={style.team__list_item}
 						 >
-							<img src="/public/img/home/team/attractive-laughing-guy-having-fun-smiling-happy.png" alt="Rosalina Wiliam" className="team__item_img" />
+							<img src="img/home/team/attractive-laughing-guy-having-fun-smiling-happy.png" alt="Rosalina Wiliam" className="team__item_img" />
 							<h4>Rosalina Wiliam</h4>
 							<h3>CEO & Founder</h3>
 						</li>
