@@ -1,0 +1,15 @@
+.header__content {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+	width: 100%;
+	align-items: center;
+	justify-content: space-between;
+	padding: 60px;
+	position: relative;
+}
+@media (width < 1400px) {
+	.header__content {
+		justify-content: center;
+	}
+}
