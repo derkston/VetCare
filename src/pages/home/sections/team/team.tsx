@@ -13,7 +13,7 @@ export const Team = () => {
 						<li
 						 className={style.team__list_item}
 						 >
-							<img src="/public/img/home/team/happy-bearded-young-man-looks-with-joyful-expression-has-friendly-smile-wears-yellow-sweater-red-hat.png" alt="Rosalina Wiliam" className="team__item_img" />
+							<img src="/public/img/home/team/happy-bearded.png" alt="Rosalina Wiliam" className="team__item_img" />
 							<h4>Rosalina Wiliam</h4>
 							<h3>CEO & Founder</h3>
 						</li>
