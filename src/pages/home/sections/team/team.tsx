@@ -27,7 +27,7 @@ export const Team = () => {
 						<li
 						 className={style.team__list_item}
 						 >
-							<img src="/public/img/home/team/photo-attractive-bearded-young-man-with-cherful-expression-makes-okay-gesture-with-both-hands-likes-something-dressed-red-casual-t-shirt-poses-against-white-wall-gestures-indoor.png" alt="Rosalina Wiliam" className="team__item_img" />
+							<img src="/public/img/home/team/photo-attractive.png" alt="Rosalina Wiliam" className="team__item_img" />
 							<h4>Rosalina Wiliam</h4>
 							<h3>CEO & Founder</h3>
 						</li>
